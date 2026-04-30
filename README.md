@@ -47,9 +47,6 @@ Exploring distributed systems, modern design patterns, and database optimization
 <b>🗄️ Databases</b><br>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /><br><br>
 
-<b>📊 Data Processing</b><br>
-<sub>NumPy • Pandas • Scikit-learn • Seaborn</sub><br><br>
-
 <b>⚙️ Tools & OS</b><br>
 <img src="https://skillicons.dev/icons?i=git,linux" /><br><br>
 
@@ -63,7 +60,7 @@ Exploring distributed systems, modern design patterns, and database optimization
 ## 🎧 NOW PLAYING [SPOTIFY SIGNAL]
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem" />
+  <img src="https://img.shields.io/badge/Spotify-Now%20Playing%20Unavailable-00ffcc?style=for-the-badge&logo=spotify&logoColor=black" />
 </p>
 
 ---
