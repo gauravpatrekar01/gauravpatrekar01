@@ -1,49 +1,66 @@
-<!-- 🌌 Futuristic Header -->
+<!-- 🧠 CYBERPUNK HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Gaurav%20Patrekar&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=GAURAV%20PATREKAR&fontAlign=50&fontAlignY=40&color=0:000000,50:0f0f0f,100:00ffcc&fontColor=00ffcc&animation=twinkling" />
 </p>
 
-<!-- ⚡ Typing Animation -->
+<!-- ⚡ NEON TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Developer+%7C+Tech+Enthusiast;Building+Scalable+Systems;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFCC&center=true&vCenter=true&width=700&lines=>>>+Initializing+Developer+Profile...;>>>+Backend+Engineer+%7C+Problem+Solver;>>>+Building+Scalable+Systems;>>>+Learning+Never+Stops" />
 </p>
 
 ---
 
-<!-- 🧊 About -->
-## 🧊 About Me
+<!-- 🟢 MATRIX GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600"/>
+</p>
+
+---
+
+## 🧠 SYSTEM PROFILE
 
 <p align="center">
-Driven to engineer <b>high-performance</b>, <b>scalable</b>, and <b>robust</b> systems with a strong emphasis on clean architecture.<br>
-Deeply interested in backend technologies, efficient data handling, and optimizing system performance under scale.<br>
-Actively learning and applying modern system design patterns, distributed systems concepts, and database tuning strategies.
+Engineer focused on <b>high-performance</b>, <b>scalable</b>, and <b>robust</b> systems.<br>
+Strong emphasis on backend architecture, efficient data handling, and performance tuning.<br>
+Exploring distributed systems, modern design patterns, and database optimization strategies.
 </p>
 
 <p align="center">
-🌱 Advanced Backend & System Design  
-💬 Web Dev • Databases • Problem Solving • Blockchain
+⚡ Backend & System Design  
+⚡ Web Dev • Databases • Blockchain  
 ⚡ Performance Optimization  
-📍 India  
+⚡ India  
 </p>
 
 ---
 
-<!-- 🧠 3D Dev Visual -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
-
----
-
-## ⚙️ Tech Matrix
+## ⚙️ TECH STACK [NEURAL MATRIX]
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,mongodb,git&perline=4" />
+
+<b>💻 Languages</b><br>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,r,js" /><br><br>
+
+<b>🌐 Web Layer</b><br>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs" /><br><br>
+
+<b>🗄️ Databases</b><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /><br><br>
+
+<b>📊 Data Processing</b><br>
+<sub>NumPy • Pandas • Scikit-learn • Seaborn</sub><br><br>
+
+<b>⚙️ Tools & OS</b><br>
+<img src="https://skillicons.dev/icons?i=git,linux" /><br><br>
+
+<b>🔗 Blockchain</b><br>
+<img src="https://skillicons.dev/icons?i=solidity" />
+
 </p>
 
 ---
 
-## 🎧 Now Playing (Spotify)
+## 🎧 NOW PLAYING [SPOTIFY SIGNAL]
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem" />
@@ -51,70 +68,70 @@ Actively learning and applying modern system design patterns, distributed system
 
 ---
 
-## 📊 Analytics Dashboard
+## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gauravpatrekar01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravpatrekar01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gauravpatrekar01&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravpatrekar01&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Contribution Matrix
+## 🔥 ACTIVITY STREAM
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gauravpatrekar01&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img src="https://streak-stats.demolab.com?user=gauravpatrekar01&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🧠 Exploration Zone
+## 🧠 ACTIVE LEARNING MODULES
 
 <p align="center">
-`System Architecture` ⚡ `Backend Optimization` ⚡ `Database Scaling`
+`System Architecture` ⚡ `Backend Optimization` ⚡ `Database Scaling` ⚡ `Distributed Systems`
 </p>
 
 ---
 
-## 🌐 Digital Presence
+## 🌐 NETWORK LINKS
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-patrekar-20470333a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="https://www.instagram.com/gaurav_patrekar/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-00ffcc?style=for-the-badge&logo=instagram&logoColor=black"/>
   </a>
   <a href="mailto:gauravpatrekar01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-00ffcc?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🧬 Developer Philosophy
+## 🧬 CORE PRINCIPLE
 
 <p align="center">
-  <i>"Consistency beats intensity."</i>
+  <code>Consistency > Motivation</code>
 </p>
 
 ---
 
-<!-- 🐍 Snake Animation -->
+<!-- 🐍 NEON SNAKE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-<!-- 👁️ Profile Views -->
+<!-- 👁️ VISIBILITY -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauravpatrekar01&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=gauravpatrekar01&label=SYSTEM%20VIEWS&color=00ffcc&style=flat" />
 </p>
 
 ---
 
-<!-- 🌌 Footer -->
+<!-- 🧠 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ffcc,50:0f0f0f,100:000000"/>
 </p>
