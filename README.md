@@ -60,7 +60,13 @@ Exploring distributed systems, modern design patterns, and database optimization
 ## 🎧 NOW PLAYING [SPOTIFY SIGNAL]
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spotify-Now%20Playing%20Unavailable-00ffcc?style=for-the-badge&logo=spotify&logoColor=black" />
+  <a href="https://open.spotify.com/track/5TZh6RFBz3PUTP56hej65q">
+    <img src="https://img.shields.io/badge/Spotify-Play%20My%20Favorite%20Track-00ffcc?style=for-the-badge&logo=spotify&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Click to listen on Spotify</i>
 </p>
 
 ---
