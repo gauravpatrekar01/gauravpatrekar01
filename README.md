@@ -12,7 +12,11 @@
 
 <!-- 🟢 MATRIX GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <i>Building systems behind the scenes</i>
 </p>
 
 ---
