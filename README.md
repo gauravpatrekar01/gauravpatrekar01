@@ -61,20 +61,6 @@ Exploring distributed systems, modern design patterns, and database optimization
 
 ---
 
-## 🎧 NOW PLAYING [SPOTIFY SIGNAL]
-
-<p align="center">
-  <a href="https://open.spotify.com/track/5TZh6RFBz3PUTP56hej65q">
-    <img src="https://img.shields.io/badge/Spotify-Play%20My%20Favorite%20Track-00ffcc?style=for-the-badge&logo=spotify&logoColor=black" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Click to listen on Spotify</i>
-</p>
-
----
-
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
@@ -119,7 +105,7 @@ Exploring distributed systems, modern design patterns, and database optimization
 ## 🧬 CORE PRINCIPLE
 
 <p align="center">
-  <code>Consistency > Motivation</code>
+  <code>Consistency builds mastery • Mastery builds freedom</code>
 </p>
 
 ---
