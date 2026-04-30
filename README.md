@@ -29,26 +29,21 @@ Interested in system design, database optimization, and performance-driven devel
 ## ⚙️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,r,js" />
 <br>
 <sub>Languages</sub>
-
+</p>
 <br><br>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,nodejs,mongodb,mysql,postgresql" />
 <br>
 <sub>Web & Databases</sub>
-
+</p>
 <br><br>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,linux,solidity" />
 <br>
 <sub>Tools • Systems • Blockchain</sub>
-
-<br><br>
-
-<sub>+ NumPy • Pandas • Scikit-learn • Seaborn</sub>
 
 </p>
 
