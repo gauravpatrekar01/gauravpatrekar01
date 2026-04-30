@@ -30,20 +30,25 @@ Interested in system design, database optimization, and performance-driven devel
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,r,js" /><br>
-<sub>Languages</sub><br><br>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,r,js" />
+<br>
+<sub>Languages</sub>
 
-<img src="https://skillicons.dev/icons?i=html,css,nodejs" /><br>
-<sub>Web</sub><br><br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /><br>
-<sub>Databases</sub><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,mongodb,mysql,postgresql" />
+<br>
+<sub>Web & Databases</sub>
 
-<img src="https://skillicons.dev/icons?i=git,linux" /><br>
-<sub>Tools & OS</sub><br><br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=solidity" /><br>
-<sub>Blockchain</sub>
+<img src="https://skillicons.dev/icons?i=git,linux,solidity" />
+<br>
+<sub>Tools • Systems • Blockchain</sub>
+
+<br><br>
+
+<sub>+ NumPy • Pandas • Scikit-learn • Seaborn</sub>
 
 </p>
 
