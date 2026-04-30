@@ -1,4 +1,4 @@
-<!-- 🌌 Futuristic Gradient Header -->
+<!-- 🌌 Futuristic Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Gaurav%20Patrekar&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -10,21 +10,27 @@
 
 ---
 
-<!-- 🧊 Glass Style About Section -->
+<!-- 🧊 About -->
 ## 🧊 About Me
 
 <p align="center">
-Focused on crafting <b>scalable</b>, <b>efficient</b>, and <b>clean</b> systems.<br>
-Continuously exploring backend technologies and system architecture.
+Driven to engineer <b>high-performance</b>, <b>scalable</b>, and <b>robust</b> systems with a strong emphasis on clean architecture.<br>
+Deeply interested in backend technologies, efficient data handling, and optimizing system performance under scale.<br>
+Actively learning and applying modern system design patterns, distributed systems concepts, and database tuning strategies.
 </p>
 
 <p align="center">
-
 🌱 Advanced Backend & System Design  
-💬 Web Development • Databases • Problem Solving  
-⚡ Performance & Optimization Focus  
+💬 Web Dev • Databases • Problem Solving • Blockchain
+⚡ Performance Optimization  
 📍 India  
+</p>
 
+---
+
+<!-- 🧠 3D Dev Visual -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 ---
@@ -33,6 +39,14 @@ Continuously exploring backend technologies and system architecture.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,mongodb,git&perline=4" />
+</p>
+
+---
+
+## 🎧 Now Playing (Spotify)
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem" />
 </p>
 
 ---
@@ -57,9 +71,7 @@ Continuously exploring backend technologies and system architecture.
 ## 🧠 Exploration Zone
 
 <p align="center">
-
 `System Architecture` ⚡ `Backend Optimization` ⚡ `Database Scaling`
-
 </p>
 
 ---
@@ -69,6 +81,9 @@ Continuously exploring backend technologies and system architecture.
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-patrekar-20470333a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/gaurav_patrekar/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:gauravpatrekar01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -85,7 +100,7 @@ Continuously exploring backend technologies and system architecture.
 
 ---
 
-<!-- 🐍 Contribution Snake Animation -->
+<!-- 🐍 Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
@@ -99,7 +114,7 @@ Continuously exploring backend technologies and system architecture.
 
 ---
 
-<!-- 🌌 Footer Wave -->
+<!-- 🌌 Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027"/>
 </p>
