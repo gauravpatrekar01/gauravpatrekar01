@@ -1,62 +1,82 @@
-# 👋 Hi, I'm Gaurav Patrekar
-
-💻 Developer | 🚀 Tech Enthusiast | 🎯 Continuous Learner  
+<!-- 🔥 Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gaurav+Patrekar;Developer+%7C+Tech+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 Currently learning: **Advanced Backend & System Design**
-- 💬 Interested in: **Web Development, Databases, Problem Solving**
-- ⚡ Focus: Building scalable and efficient systems
-- 📍 Based in India
+- 🌱 Learning: **Advanced Backend & System Design**
+- 💬 Interests: **Web Dev • Databases • Problem Solving**
+- ⚡ Focus: **Scalable & Efficient Systems**
+- 📍 India  
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-### 🚀 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🚀 Languages  
+<img src="https://skillicons.dev/icons?i=java,python,mysql" />
 
-### 🗄️ Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🌐 Web  
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### 🗄️ Tools  
+<img src="https://skillicons.dev/icons?i=mongodb,git" />
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=gauravpatrekar01&show_icons=true&theme=tokyonight)
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravpatrekar01&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gauravpatrekar01&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravpatrekar01&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🔥 Streak Stats
-![Streak](https://streak-stats.demolab.com/?user=gauravpatrekar01&theme=tokyonight)
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gauravpatrekar01&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🧠 Currently Exploring
-- 🔹 System Design Principles  
-- 🔹 Backend Optimization  
-- 🔹 Database Performance  
+<p align="center">
+  
+`System Design` • `Backend Optimization` • `Database Performance`
+
+</p>
 
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/gaurav-patrekar-20470333a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:gauravpatrekar01@gmail.com)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-patrekar-20470333a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gauravpatrekar01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🎯 Quote
-> "Consistency beats intensity."
+<p align="center">
+  <i>"Consistency beats intensity."</i>
+</p>
 
 ---
+
+<!-- 🔥 Optional Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gauravpatrekar01&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
