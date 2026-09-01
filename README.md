@@ -73,20 +73,6 @@ Current Interests:
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravpatrekar01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravpatrekar01&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=gauravpatrekar01&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
